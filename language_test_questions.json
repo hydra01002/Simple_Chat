@@ -1,0 +1,6014 @@
+{
+ "A1": [
+  {
+   "q": "I ___ from Iran.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ a doctor.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They ___ happy.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He ___ a car.",
+   "options": [
+    "have",
+    "has",
+    "is",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ students.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "___ you like tea?",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "This ___ my book.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "These ___ my shoes.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "There ___ a cat on the table.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There ___ two books.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I have ___ apple.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ teacher.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "He can ___ swim.",
+   "options": [
+    "not",
+    "no",
+    "don't",
+    "doesn't"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ play football.",
+   "options": [
+    "can",
+    "can to",
+    "am",
+    "do"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "My father ___ to work every day.",
+   "options": [
+    "go",
+    "goes",
+    "going",
+    "gone"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ TV in the evening.",
+   "options": [
+    "watch",
+    "watches",
+    "watching",
+    "watched"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ English every day.",
+   "options": [
+    "study",
+    "studies",
+    "studying",
+    "studied"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ is your name?",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "How"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ old are you?",
+   "options": [
+    "What",
+    "Who",
+    "How",
+    "Where"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "___ are you from?",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "How"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I live ___ Tehran.",
+   "options": [
+    "at",
+    "on",
+    "in",
+    "to"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The book is ___ the table.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The cat is ___ the box.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I go ___ school.",
+   "options": [
+    "at",
+    "on",
+    "to",
+    "in"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She gets up ___ 7 o'clock.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "Monday, Tuesday, ___.",
+   "options": [
+    "Wednesday",
+    "Friday",
+    "Sunday",
+    "Saturday"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "One, two, ___.",
+   "options": [
+    "four",
+    "three",
+    "five",
+    "six"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Red, blue, ___.",
+   "options": [
+    "green",
+    "black",
+    "white",
+    "brown"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Mother, father, ___.",
+   "options": [
+    "brother",
+    "sister",
+    "son",
+    "daughter"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I am ___.",
+   "options": [
+    "fine",
+    "a fine",
+    "the fine",
+    "fines"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "He is ___.",
+   "options": [
+    "happy",
+    "happiness",
+    "happily",
+    "happen"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "They are ___.",
+   "options": [
+    "students",
+    "student",
+    "a student",
+    "studing"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ a pen.",
+   "options": [
+    "have",
+    "has",
+    "am",
+    "is"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ a dog.",
+   "options": [
+    "have",
+    "has",
+    "am",
+    "is"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ not tired.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He ___ not like coffee.",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ she like pizza?",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "What ___ your favorite color?",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Where ___ you live?",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Who ___ that man?",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is ___ orange.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "That is ___ umbrella.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I need ___ water.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She wants ___ banana.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "There isn't ___ milk.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "an"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have two ___.",
+   "options": [
+    "book",
+    "books",
+    "a book",
+    "bookes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has three ___.",
+   "options": [
+    "apple",
+    "apples",
+    "a apple",
+    "applees"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They are ___.",
+   "options": [
+    "happy",
+    "happily",
+    "happiness",
+    "happier"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "He is ___.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "height"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She is ___.",
+   "options": [
+    "nice",
+    "nicer",
+    "nicest",
+    "nicely"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "My ___ name is Ali.",
+   "options": [
+    "first",
+    "one",
+    "one's",
+    "firstly"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Her ___ is a nurse.",
+   "options": [
+    "mother",
+    "father",
+    "brother",
+    "son"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I like ___.",
+   "options": [
+    "tea",
+    "teas",
+    "a tea",
+    "the tea"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She likes ___.",
+   "options": [
+    "music",
+    "musics",
+    "a music",
+    "the music"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "We go to the park ___ Sunday.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wake up ___ the morning.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I sleep ___ night.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The sun is ___.",
+   "options": [
+    "hot",
+    "cold",
+    "blue",
+    "green"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "The sky is ___.",
+   "options": [
+    "blue",
+    "green",
+    "red",
+    "black"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Grass is ___.",
+   "options": [
+    "green",
+    "blue",
+    "red",
+    "yellow"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I am ___ years old.",
+   "options": [
+    "20",
+    "20th",
+    "twenty's",
+    "twenties"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "My birthday is ___ May.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I can speak ___.",
+   "options": [
+    "English",
+    "England",
+    "Englishman",
+    "Englishes"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I don't have ___ money.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "an"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She doesn't ___ tea.",
+   "options": [
+    "like",
+    "likes",
+    "liking",
+    "liked"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Do you ___ English?",
+   "options": [
+    "speak",
+    "speaks",
+    "speaking",
+    "spoke"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Does he ___ football?",
+   "options": [
+    "play",
+    "plays",
+    "playing",
+    "played"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ you have a car?",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Yes, I ___.",
+   "options": [
+    "do",
+    "does",
+    "am",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "No, I ___.",
+   "options": [
+    "don't",
+    "doesn't",
+    "am not",
+    "haven't"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "How many ___ do you have?",
+   "options": [
+    "book",
+    "books",
+    "a book",
+    "bookes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "How much ___ do you need?",
+   "options": [
+    "money",
+    "moneys",
+    "a money",
+    "moneies"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "This is ___ book.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "That is ___ bag.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ is my friend.",
+   "options": [
+    "He",
+    "His",
+    "Him",
+    "He's"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ are my friends.",
+   "options": [
+    "They",
+    "Them",
+    "Their",
+    "They're"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ a student.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "You ___ my friend.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "It ___ a cat.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They ___ at home.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She ___ a new phone.",
+   "options": [
+    "have",
+    "has",
+    "is",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ breakfast at 8.",
+   "options": [
+    "have",
+    "has",
+    "is",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ to school by bus.",
+   "options": [
+    "go",
+    "goes",
+    "going",
+    "gone"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "They ___ in London.",
+   "options": [
+    "live",
+    "lives",
+    "living",
+    "lived"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ my homework every day.",
+   "options": [
+    "do",
+    "does",
+    "doing",
+    "did"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ her room on Saturdays.",
+   "options": [
+    "clean",
+    "cleans",
+    "cleaning",
+    "cleaned"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ TV at night.",
+   "options": [
+    "watch",
+    "watches",
+    "watching",
+    "watched"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ music.",
+   "options": [
+    "like",
+    "likes",
+    "liking",
+    "liked"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ to the radio.",
+   "options": [
+    "listen",
+    "listens",
+    "listening",
+    "listened"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ in a hospital.",
+   "options": [
+    "work",
+    "works",
+    "working",
+    "worked"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ English and French.",
+   "options": [
+    "speak",
+    "speaks",
+    "speaking",
+    "spoke"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They ___ in a big house.",
+   "options": [
+    "live",
+    "lives",
+    "living",
+    "lived"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ a bicycle.",
+   "options": [
+    "have",
+    "has",
+    "am",
+    "is"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ blue eyes.",
+   "options": [
+    "have",
+    "has",
+    "is",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ happy.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "It ___ cold today.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The shops ___ open.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I ___ not hungry.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ not at school.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They ___ not my parents.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer_index": 2
+  }
+ ],
+ "A2": [
+  {
+   "q": "I ___ to the cinema yesterday.",
+   "options": [
+    "go",
+    "went",
+    "gone",
+    "going"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ her homework last night.",
+   "options": [
+    "do",
+    "did",
+    "done",
+    "doing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They ___ football last Sunday.",
+   "options": [
+    "play",
+    "played",
+    "playing",
+    "plays"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ a letter last week.",
+   "options": [
+    "write",
+    "wrote",
+    "written",
+    "writing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ to Paris in 2019.",
+   "options": [
+    "go",
+    "went",
+    "gone",
+    "going"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Did you ___ TV yesterday?",
+   "options": [
+    "watch",
+    "watched",
+    "watching",
+    "watches"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I didn't ___ breakfast.",
+   "options": [
+    "had",
+    "have",
+    "having",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ not come to the party.",
+   "options": [
+    "do",
+    "did",
+    "was",
+    "were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Where ___ you go last summer?",
+   "options": [
+    "do",
+    "did",
+    "was",
+    "were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "What ___ you do yesterday?",
+   "options": [
+    "do",
+    "did",
+    "was",
+    "were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I am ___ a book now.",
+   "options": [
+    "read",
+    "reading",
+    "reads",
+    "readed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ TV at the moment.",
+   "options": [
+    "watch",
+    "watching",
+    "watched",
+    "watches"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They are ___ in the park.",
+   "options": [
+    "play",
+    "playing",
+    "played",
+    "plays"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ his car.",
+   "options": [
+    "wash",
+    "washing",
+    "washed",
+    "washes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We are ___ for the bus.",
+   "options": [
+    "wait",
+    "waiting",
+    "waited",
+    "waits"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ visit my grandma tomorrow.",
+   "options": [
+    "will",
+    "am",
+    "do",
+    "did"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ call you later.",
+   "options": [
+    "will",
+    "is",
+    "does",
+    "did"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "They ___ going to travel next week.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is going to ___ a new job.",
+   "options": [
+    "start",
+    "starts",
+    "started",
+    "starting"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "We ___ going to have a party.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This book is ___ than that one.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "well"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ than her sister.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "more tall"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "My car is ___ than yours.",
+   "options": [
+    "fast",
+    "faster",
+    "fastest",
+    "more fast"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is the ___ film I have ever seen.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "well"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is the ___ student in the class.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "well"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I have ___ money than you.",
+   "options": [
+    "many",
+    "much",
+    "more",
+    "most"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She has ___ friends than me.",
+   "options": [
+    "many",
+    "much",
+    "more",
+    "most"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "There are ___ apples in the basket.",
+   "options": [
+    "any",
+    "some",
+    "a",
+    "an"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There isn't ___ milk in the fridge.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "an"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Would you like ___ tea?",
+   "options": [
+    "any",
+    "some",
+    "a",
+    "an"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "How ___ sugar do you need?",
+   "options": [
+    "many",
+    "much",
+    "some",
+    "any"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "How ___ eggs are there?",
+   "options": [
+    "many",
+    "much",
+    "some",
+    "any"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ swim when I was five.",
+   "options": [
+    "can",
+    "could",
+    "must",
+    "should"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "You ___ not smoke here.",
+   "options": [
+    "can",
+    "must",
+    "could",
+    "would"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ speak three languages.",
+   "options": [
+    "can",
+    "must",
+    "should",
+    "would"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "We ___ wear a uniform at school.",
+   "options": [
+    "have to",
+    "has to",
+    "having to",
+    "had to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "You ___ see a doctor.",
+   "options": [
+    "should",
+    "could",
+    "would",
+    "can"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I ___ like to have a coffee.",
+   "options": [
+    "will",
+    "would",
+    "do",
+    "am"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ you help me, please?",
+   "options": [
+    "Can",
+    "Do",
+    "Are",
+    "Is"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "___ I open the window?",
+   "options": [
+    "May",
+    "Do",
+    "Are",
+    "Is"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I was ___ when you called.",
+   "options": [
+    "sleep",
+    "sleeping",
+    "slept",
+    "sleeps"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They were ___ football.",
+   "options": [
+    "play",
+    "playing",
+    "played",
+    "plays"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She was ___ a book.",
+   "options": [
+    "read",
+    "reading",
+    "reads",
+    "readed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "While I ___, she ___ TV.",
+   "options": [
+    "read / watched",
+    "was reading / was watching",
+    "reading / watching",
+    "reads / watches"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ him while I ___ home.",
+   "options": [
+    "see / walk",
+    "saw / was walking",
+    "seen / walking",
+    "seeing / walked"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ his leg last year.",
+   "options": [
+    "break",
+    "broke",
+    "broken",
+    "breaking"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ a new dress yesterday.",
+   "options": [
+    "buy",
+    "bought",
+    "boughten",
+    "buying"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We ___ the film.",
+   "options": [
+    "like",
+    "liked",
+    "liking",
+    "likes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ you ever ___ to London?",
+   "options": [
+    "Did / go",
+    "Have / been",
+    "Are / going",
+    "Do / go"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have ___ sushi.",
+   "options": [
+    "eat",
+    "ate",
+    "eaten",
+    "eating"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She has ___ her work.",
+   "options": [
+    "finish",
+    "finished",
+    "finishing",
+    "finishes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They have ___.",
+   "options": [
+    "arrive",
+    "arrived",
+    "arriving",
+    "arrives"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have lived here ___ 2010.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has worked there ___ five years.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "in"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "How long ___ you known him?",
+   "options": [
+    "do",
+    "did",
+    "have",
+    "has"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I ___ him before.",
+   "options": [
+    "didn't see",
+    "haven't seen",
+    "don't see",
+    "wasn't seeing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is the first time I ___ this.",
+   "options": [
+    "try",
+    "tried",
+    "have tried",
+    "am trying"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "If it ___, I will stay home.",
+   "options": [
+    "rain",
+    "rains",
+    "rained",
+    "will rain"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If you ___, you will pass.",
+   "options": [
+    "study",
+    "studies",
+    "studied",
+    "will study"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I will call you if I ___ time.",
+   "options": [
+    "have",
+    "has",
+    "had",
+    "will have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She ___ happy if you come.",
+   "options": [
+    "is",
+    "will be",
+    "was",
+    "would be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ if I were you.",
+   "options": [
+    "apologize",
+    "will apologize",
+    "would apologize",
+    "apologized"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "If I ___ money, I would buy a car.",
+   "options": [
+    "have",
+    "had",
+    "has",
+    "will have"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ pass if he studied.",
+   "options": [
+    "will",
+    "would",
+    "can",
+    "does"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ the answer.",
+   "options": [
+    "know",
+    "knew",
+    "known",
+    "knowing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ taller.",
+   "options": [
+    "am",
+    "was",
+    "were",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is interested ___ music.",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "for"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is good ___ math.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "for"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I am afraid ___ dogs.",
+   "options": [
+    "from",
+    "of",
+    "at",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Thank you ___ your help.",
+   "options": [
+    "of",
+    "for",
+    "at",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I am looking ___ my keys.",
+   "options": [
+    "at",
+    "for",
+    "after",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is looking ___ the window.",
+   "options": [
+    "at",
+    "out of",
+    "for",
+    "after"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I agree ___ you.",
+   "options": [
+    "to",
+    "with",
+    "for",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It depends ___ the weather.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "for"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I am tired ___ waiting.",
+   "options": [
+    "from",
+    "of",
+    "with",
+    "for"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is married ___ my sister.",
+   "options": [
+    "with",
+    "to",
+    "for",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I arrived ___ the airport at 6.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We arrived ___ London.",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have been ___ this city for 5 years.",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She goes ___ work by car.",
+   "options": [
+    "at",
+    "to",
+    "in",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I usually get up ___ 7 am.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I was born ___ 1990.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "My birthday is ___ July 5th.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I will see you ___ Monday.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I will be back ___ an hour.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has been waiting ___ 20 minutes.",
+   "options": [
+    "since",
+    "for",
+    "from",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have known her ___ childhood.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is ___ book I told you about.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She is ___ honest woman.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ engineer.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I need ___ information.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "Can you give me ___ advice?",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "There are ___ people in the park.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She has ___ money.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I have ___ friends in London.",
+   "options": [
+    "a",
+    "an",
+    "some",
+    "any"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is ___ than me.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "more tall"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is the ___ film ever.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "well"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She sings ___ than me.",
+   "options": [
+    "good",
+    "well",
+    "better",
+    "best"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He runs ___ than his brother.",
+   "options": [
+    "fast",
+    "faster",
+    "fastest",
+    "more fast"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ to like coffee, but now I do.",
+   "options": [
+    "didn't use",
+    "didn't used",
+    "don't use",
+    "wasn't use"
+   ],
+   "answer_index": 0
+  }
+ ],
+ "B1": [
+  {
+   "q": "I ___ here since 2015.",
+   "options": [
+    "live",
+    "lived",
+    "have lived",
+    "am living"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She ___ that film.",
+   "options": [
+    "sees",
+    "saw",
+    "has seen",
+    "is seeing"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "They ___ their homework yet.",
+   "options": [
+    "didn't finish",
+    "haven't finished",
+    "don't finish",
+    "aren't finishing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "How long ___ you ___ him?",
+   "options": [
+    "do / know",
+    "did / know",
+    "have / known",
+    "are / knowing"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He ___ to Paris three times.",
+   "options": [
+    "was",
+    "has been",
+    "is",
+    "goes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ to Japan.",
+   "options": [
+    "never went",
+    "have never been",
+    "didn't go",
+    "am not"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ the office.",
+   "options": [
+    "leaves",
+    "left",
+    "has left",
+    "is leaving"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "We ___ for you for two hours.",
+   "options": [
+    "wait",
+    "waited",
+    "have been waiting",
+    "are waiting"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The house ___ in 1990.",
+   "options": [
+    "built",
+    "was built",
+    "has built",
+    "is building"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "English ___ all over the world.",
+   "options": [
+    "speaks",
+    "is spoken",
+    "spoke",
+    "is speaking"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The letter ___ yesterday.",
+   "options": [
+    "sent",
+    "was sent",
+    "has sent",
+    "is sending"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This song ___ by John Lennon.",
+   "options": [
+    "wrote",
+    "was written",
+    "has written",
+    "is writing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The car ___ at the moment.",
+   "options": [
+    "repairs",
+    "is repaired",
+    "is being repaired",
+    "repaired"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He said he ___ tired.",
+   "options": [
+    "is",
+    "was",
+    "has been",
+    "will be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She told me she ___ come later.",
+   "options": [
+    "will",
+    "would",
+    "can",
+    "does"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They asked where I ___.",
+   "options": [
+    "live",
+    "lived",
+    "am living",
+    "have lived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He asked if I ___ help him.",
+   "options": [
+    "can",
+    "could",
+    "will",
+    "do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She said she ___ coffee.",
+   "options": [
+    "like",
+    "likes",
+    "liked",
+    "is liking"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The teacher told us ___ quiet.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He suggested ___ to the cinema.",
+   "options": [
+    "go",
+    "to go",
+    "going",
+    "went"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I enjoy ___ books.",
+   "options": [
+    "read",
+    "to read",
+    "reading",
+    "reads"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She wants ___ Spanish.",
+   "options": [
+    "learn",
+    "learning",
+    "to learn",
+    "learned"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He decided ___ to the party.",
+   "options": [
+    "go",
+    "going",
+    "to go",
+    "went"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "They promised ___ us.",
+   "options": [
+    "help",
+    "helping",
+    "to help",
+    "helped"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I can't stand ___ in long lines.",
+   "options": [
+    "wait",
+    "to wait",
+    "waiting",
+    "waited"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "It's important ___ every day.",
+   "options": [
+    "practice",
+    "practicing",
+    "to practice",
+    "practiced"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I'm interested in ___ new things.",
+   "options": [
+    "learn",
+    "to learn",
+    "learning",
+    "learned"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is good at ___ problems.",
+   "options": [
+    "solve",
+    "to solve",
+    "solving",
+    "solved"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I forgot ___ the door.",
+   "options": [
+    "lock",
+    "locking",
+    "to lock",
+    "locked"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "Remember ___ me when you arrive.",
+   "options": [
+    "call",
+    "calling",
+    "to call",
+    "called"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "If I ___ him, I will tell him.",
+   "options": [
+    "see",
+    "saw",
+    "will see",
+    "seen"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "If it ___, we will go out.",
+   "options": [
+    "don't rain",
+    "doesn't rain",
+    "didn't rain",
+    "won't rain"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If you ___ harder, you would pass.",
+   "options": [
+    "study",
+    "studied",
+    "will study",
+    "have studied"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If I ___ you, I would apologize.",
+   "options": [
+    "am",
+    "was",
+    "were",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "If she ___ time, she would come.",
+   "options": [
+    "has",
+    "had",
+    "have",
+    "will have"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If they ___ earlier, they wouldn't have missed the train.",
+   "options": [
+    "left",
+    "had left",
+    "have left",
+    "leave"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If I ___ you were coming, I would have prepared dinner.",
+   "options": [
+    "knew",
+    "had known",
+    "know",
+    "have known"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ fly.",
+   "options": [
+    "can",
+    "could",
+    "will",
+    "would"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ that.",
+   "options": [
+    "didn't say",
+    "hadn't said",
+    "don't say",
+    "haven't said"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He wishes he ___ more when he was young.",
+   "options": [
+    "studied",
+    "had studied",
+    "studies",
+    "has studied"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The man ___ is talking to Mary is my uncle.",
+   "options": [
+    "which",
+    "who",
+    "whom",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The book ___ I bought yesterday is very good.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "where"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The place ___ we visited was beautiful.",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The reason ___ he left is unknown.",
+   "options": [
+    "who",
+    "which",
+    "why",
+    "when"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "This is the girl ___ brother is a doctor.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I have a friend ___ lives in Canada.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "where"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The film ___ we saw was boring.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "where"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Everything ___ he said was true.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is the only person ___ can help.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "where"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is not the woman ___ she used to be.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I look forward to ___ from you.",
+   "options": [
+    "hear",
+    "hearing",
+    "heard",
+    "to hear"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is used to ___ up early.",
+   "options": [
+    "get",
+    "getting",
+    "got",
+    "to get"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He used to ___ but he quit.",
+   "options": [
+    "smoke",
+    "smoking",
+    "smoked",
+    "to smoke"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I'm used to ___ alone.",
+   "options": [
+    "live",
+    "living",
+    "lived",
+    "to live"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Would you mind ___ the window?",
+   "options": [
+    "open",
+    "opening",
+    "to open",
+    "opened"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It's no use ___ over spilt milk.",
+   "options": [
+    "cry",
+    "crying",
+    "to cry",
+    "cried"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There's no point in ___ with him.",
+   "options": [
+    "argue",
+    "arguing",
+    "to argue",
+    "argued"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He denied ___ the money.",
+   "options": [
+    "steal",
+    "stealing",
+    "to steal",
+    "stole"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She admitted ___ a mistake.",
+   "options": [
+    "make",
+    "making",
+    "to make",
+    "made"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They accused him of ___.",
+   "options": [
+    "lie",
+    "lying",
+    "to lie",
+    "lied"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I can't help ___ when I see him.",
+   "options": [
+    "laugh",
+    "laughing",
+    "to laugh",
+    "laughed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He kept ___ during the film.",
+   "options": [
+    "talk",
+    "talking",
+    "to talk",
+    "talked"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She avoided ___ my question.",
+   "options": [
+    "answer",
+    "answering",
+    "to answer",
+    "answered"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We are planning ___ to Italy.",
+   "options": [
+    "go",
+    "going",
+    "to go",
+    "went"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He offered ___ me home.",
+   "options": [
+    "drive",
+    "driving",
+    "to drive",
+    "drove"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She refused ___ the offer.",
+   "options": [
+    "accept",
+    "accepting",
+    "to accept",
+    "accepted"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I expect ___ you soon.",
+   "options": [
+    "see",
+    "seeing",
+    "to see",
+    "saw"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "They hope ___ the match.",
+   "options": [
+    "win",
+    "winning",
+    "to win",
+    "won"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He seems ___ very tired.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She appears ___ the answer.",
+   "options": [
+    "know",
+    "knowing",
+    "to know",
+    "knew"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The train ___ at 6 pm tomorrow.",
+   "options": [
+    "leave",
+    "leaves",
+    "left",
+    "is leaving"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ him tomorrow at the meeting.",
+   "options": [
+    "see",
+    "will see",
+    "saw",
+    "have seen"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "By the time we arrived, the film ___.",
+   "options": [
+    "started",
+    "had started",
+    "has started",
+    "starts"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ English for five years before she moved to London.",
+   "options": [
+    "studied",
+    "had studied",
+    "has studied",
+    "studies"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "When I saw him, he ___ for the bus.",
+   "options": [
+    "waits",
+    "waited",
+    "was waiting",
+    "is waiting"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I ___ him since last week.",
+   "options": [
+    "didn't see",
+    "haven't seen",
+    "don't see",
+    "wasn't seeing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This is the first time I ___ Thai food.",
+   "options": [
+    "try",
+    "tried",
+    "have tried",
+    "am trying"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "It's the best film I ___.",
+   "options": [
+    "ever saw",
+    "have ever seen",
+    "had ever seen",
+    "see"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is the most interesting person I ___.",
+   "options": [
+    "ever met",
+    "have ever met",
+    "had ever met",
+    "meet"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I'd rather ___ at home tonight.",
+   "options": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "You'd better ___ a doctor.",
+   "options": [
+    "see",
+    "to see",
+    "seeing",
+    "saw"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "It's time we ___ home.",
+   "options": [
+    "go",
+    "went",
+    "have gone",
+    "will go"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I suggest ___ a taxi.",
+   "options": [
+    "take",
+    "to take",
+    "taking",
+    "took"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He recommended ___ the fish.",
+   "options": [
+    "try",
+    "to try",
+    "trying",
+    "tried"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She insisted on ___ for dinner.",
+   "options": [
+    "pay",
+    "paying",
+    "to pay",
+    "paid"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They apologized for ___ late.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He thanked me for ___ him.",
+   "options": [
+    "help",
+    "helping",
+    "to help",
+    "helped"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I'm thinking of ___ a new car.",
+   "options": [
+    "buy",
+    "buying",
+    "to buy",
+    "bought"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She dreamt of ___ a singer.",
+   "options": [
+    "become",
+    "becoming",
+    "to become",
+    "became"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He succeeded in ___ the exam.",
+   "options": [
+    "pass",
+    "passing",
+    "to pass",
+    "passed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Despite ___ tired, she finished the work.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Although ___, we went out.",
+   "options": [
+    "it was raining",
+    "it rains",
+    "it rained",
+    "it is raining"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "However ___ he tried, he failed.",
+   "options": [
+    "hardly",
+    "hard",
+    "harder",
+    "hardest"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is rich, ___ he is not happy.",
+   "options": [
+    "and",
+    "but",
+    "so",
+    "because"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She was tired, ___ she went to bed.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "although"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I stayed home ___ it was raining.",
+   "options": [
+    "so",
+    "because",
+    "although",
+    "but"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ he is young, he is very wise.",
+   "options": [
+    "Because",
+    "Although",
+    "So",
+    "But"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She speaks English ___ than her brother.",
+   "options": [
+    "good",
+    "well",
+    "better",
+    "best"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He drives ___ than me.",
+   "options": [
+    "careful",
+    "carefully",
+    "more carefully",
+    "most carefully"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I wish I ___ more time.",
+   "options": [
+    "have",
+    "had",
+    "have had",
+    "will have"
+   ],
+   "answer_index": 1
+  }
+ ],
+ "B2": [
+  {
+   "q": "If I ___ about the traffic, I would have left earlier.",
+   "options": [
+    "knew",
+    "had known",
+    "know",
+    "have known"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If she ___ so busy, she would have come.",
+   "options": [
+    "wasn't",
+    "hadn't been",
+    "isn't",
+    "hasn't been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Had I known, I ___ differently.",
+   "options": [
+    "would act",
+    "would have acted",
+    "acted",
+    "had acted"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Were I you, I ___ that.",
+   "options": [
+    "won't do",
+    "wouldn't do",
+    "didn't do",
+    "don't do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Should you need help, ___ me.",
+   "options": [
+    "call",
+    "called",
+    "calling",
+    "to call"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I'd rather you ___ anyone.",
+   "options": [
+    "don't tell",
+    "didn't tell",
+    "won't tell",
+    "haven't told"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It's high time we ___.",
+   "options": [
+    "leave",
+    "left",
+    "have left",
+    "will leave"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He acts as if he ___ the place.",
+   "options": [
+    "owns",
+    "owned",
+    "has owned",
+    "will own"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She talks as though she ___ everything.",
+   "options": [
+    "knows",
+    "knew",
+    "has known",
+    "will know"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ his car.",
+   "options": [
+    "didn't buy",
+    "hadn't bought",
+    "don't buy",
+    "haven't bought"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If only I ___ to you.",
+   "options": [
+    "listened",
+    "had listened",
+    "listen",
+    "have listened"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "But for your help, I ___.",
+   "options": [
+    "would fail",
+    "would have failed",
+    "failed",
+    "had failed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Without your support, I ___.",
+   "options": [
+    "wouldn't succeed",
+    "wouldn't have succeeded",
+    "didn't succeed",
+    "hadn't succeeded"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The meeting ___ due to the storm.",
+   "options": [
+    "cancelled",
+    "was cancelled",
+    "has cancelled",
+    "is cancelling"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The project ___ by next month.",
+   "options": [
+    "will complete",
+    "will have been completed",
+    "has completed",
+    "is completing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is said ___ a genius.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is believed ___ in Paris.",
+   "options": [
+    "live",
+    "to live",
+    "living",
+    "lived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is reported that the company ___ money.",
+   "options": [
+    "loses",
+    "is losing",
+    "lost",
+    "has lost"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The suspect ___ leaving the building.",
+   "options": [
+    "saw",
+    "was seen",
+    "has seen",
+    "is seeing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I had my car ___ yesterday.",
+   "options": [
+    "repair",
+    "repaired",
+    "repairing",
+    "to repair"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She got her hair ___.",
+   "options": [
+    "cut",
+    "cutting",
+    "to cut",
+    "cuts"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "He had his wallet ___.",
+   "options": [
+    "steal",
+    "stolen",
+    "stealing",
+    "to steal"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "We need to get the house ___.",
+   "options": [
+    "paint",
+    "painted",
+    "painting",
+    "to paint"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I must have my eyes ___.",
+   "options": [
+    "test",
+    "tested",
+    "testing",
+    "to test"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is having a new house ___.",
+   "options": [
+    "build",
+    "built",
+    "building",
+    "to build"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She made me ___ for an hour.",
+   "options": [
+    "wait",
+    "to wait",
+    "waiting",
+    "waited"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I was made ___.",
+   "options": [
+    "wait",
+    "to wait",
+    "waiting",
+    "waited"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He let me ___ his phone.",
+   "options": [
+    "use",
+    "to use",
+    "using",
+    "used"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "We were allowed ___ home early.",
+   "options": [
+    "go",
+    "to go",
+    "going",
+    "went"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I saw him ___ the street.",
+   "options": [
+    "cross",
+    "crossing",
+    "to cross",
+    "crossed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I heard her ___ a song.",
+   "options": [
+    "sing",
+    "singing",
+    "to sing",
+    "sang"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I watched them ___ football.",
+   "options": [
+    "play",
+    "playing",
+    "to play",
+    "played"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I felt the ground ___.",
+   "options": [
+    "shake",
+    "shaking",
+    "to shake",
+    "shook"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "He kept me ___.",
+   "options": [
+    "wait",
+    "waiting",
+    "to wait",
+    "waited"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I don't want you ___.",
+   "options": [
+    "go",
+    "to go",
+    "going",
+    "went"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I expect him ___ soon.",
+   "options": [
+    "arrive",
+    "to arrive",
+    "arriving",
+    "arrived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I consider him ___ a friend.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They elected him ___.",
+   "options": [
+    "president",
+    "a president",
+    "the president",
+    "presidency"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "They named the baby ___.",
+   "options": [
+    "Ali",
+    "as Ali",
+    "to Ali",
+    "like Ali"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "We found the film ___.",
+   "options": [
+    "bored",
+    "boring",
+    "bore",
+    "to bore"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The news ___ surprising.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Mathematics ___ my favorite subject.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The police ___ investigating the case.",
+   "options": [
+    "is",
+    "are",
+    "was",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Neither of the answers ___ correct.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Either of the options ___ fine.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Each of the students ___ a book.",
+   "options": [
+    "have",
+    "has",
+    "are",
+    "is"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Every one of them ___ here.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "None of the information ___ useful.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "A number of people ___ waiting.",
+   "options": [
+    "is",
+    "are",
+    "was",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The number of students ___ increasing.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is used to ___ late.",
+   "options": [
+    "work",
+    "working",
+    "worked",
+    "to work"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She used to ___ in London.",
+   "options": [
+    "live",
+    "living",
+    "lived",
+    "to live"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I'm looking forward to ___ you.",
+   "options": [
+    "see",
+    "seeing",
+    "saw",
+    "seen"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He objects to ___ like a child.",
+   "options": [
+    "be treated",
+    "being treated",
+    "treat",
+    "treated"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is capable of ___ better.",
+   "options": [
+    "do",
+    "doing",
+    "to do",
+    "did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is afraid of ___.",
+   "options": [
+    "fly",
+    "flying",
+    "to fly",
+    "flew"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I'm tired of ___.",
+   "options": [
+    "wait",
+    "waiting",
+    "to wait",
+    "waited"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He insisted on ___.",
+   "options": [
+    "pay",
+    "paying",
+    "to pay",
+    "paid"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They accused him of ___.",
+   "options": [
+    "steal",
+    "stealing",
+    "to steal",
+    "stole"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She apologized for ___ late.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He succeeded in ___ the problem.",
+   "options": [
+    "solve",
+    "solving",
+    "to solve",
+    "solved"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I'm thinking of ___ my job.",
+   "options": [
+    "change",
+    "changing",
+    "to change",
+    "changed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She dreamt of ___ a doctor.",
+   "options": [
+    "become",
+    "becoming",
+    "to become",
+    "became"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He prevented me from ___.",
+   "options": [
+    "leave",
+    "leaving",
+    "to leave",
+    "left"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Nothing can stop him from ___.",
+   "options": [
+    "try",
+    "trying",
+    "to try",
+    "tried"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have no intention of ___.",
+   "options": [
+    "give up",
+    "giving up",
+    "to give up",
+    "gave up"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There is no point in ___.",
+   "options": [
+    "argue",
+    "arguing",
+    "to argue",
+    "argued"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It's no use ___.",
+   "options": [
+    "cry",
+    "crying",
+    "to cry",
+    "cried"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It's worth ___.",
+   "options": [
+    "try",
+    "trying",
+    "to try",
+    "tried"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I can't help ___.",
+   "options": [
+    "laugh",
+    "laughing",
+    "to laugh",
+    "laughed"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He denied ___ the money.",
+   "options": [
+    "steal",
+    "stealing",
+    "to steal",
+    "stole"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She admitted ___ a mistake.",
+   "options": [
+    "make",
+    "making",
+    "to make",
+    "made"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He suggested ___ to the beach.",
+   "options": [
+    "go",
+    "going",
+    "to go",
+    "went"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She recommended ___ the restaurant.",
+   "options": [
+    "try",
+    "trying",
+    "to try",
+    "tried"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He offered ___ me.",
+   "options": [
+    "help",
+    "helping",
+    "to help",
+    "helped"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She refused ___ the offer.",
+   "options": [
+    "accept",
+    "accepting",
+    "to accept",
+    "accepted"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He promised ___ me.",
+   "options": [
+    "help",
+    "helping",
+    "to help",
+    "helped"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She decided ___.",
+   "options": [
+    "leave",
+    "leaving",
+    "to leave",
+    "left"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "They agreed ___ the cost.",
+   "options": [
+    "share",
+    "sharing",
+    "to share",
+    "shared"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He managed ___ on time.",
+   "options": [
+    "arrive",
+    "arriving",
+    "to arrive",
+    "arrived"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She failed ___ the question.",
+   "options": [
+    "answer",
+    "answering",
+    "to answer",
+    "answered"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He tends ___.",
+   "options": [
+    "exaggerate",
+    "exaggerating",
+    "to exaggerate",
+    "exaggerated"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She appears ___ upset.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He seems ___ the truth.",
+   "options": [
+    "know",
+    "knowing",
+    "to know",
+    "knew"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "I happen ___ him yesterday.",
+   "options": [
+    "meet",
+    "meeting",
+    "to have met",
+    "met"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She is likely ___ late.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "been"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is certain ___.",
+   "options": [
+    "win",
+    "winning",
+    "to win",
+    "won"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The train is due ___ at 6.",
+   "options": [
+    "arrive",
+    "arriving",
+    "to arrive",
+    "arrived"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "He is bound ___.",
+   "options": [
+    "fail",
+    "failing",
+    "to fail",
+    "failed"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She is about ___.",
+   "options": [
+    "leave",
+    "leaving",
+    "to leave",
+    "left"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "No sooner ___ he arrived than he left.",
+   "options": [
+    "did",
+    "had",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Hardly ___ I started when it began to rain.",
+   "options": [
+    "did",
+    "had",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not only ___ she sing, but she also dances.",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Little ___ he know the truth.",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Never ___ I seen such a thing.",
+   "options": [
+    "did",
+    "have",
+    "had",
+    "do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Rarely ___ we have time to relax.",
+   "options": [
+    "do",
+    "does",
+    "are",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Only then ___ I realize my mistake.",
+   "options": [
+    "do",
+    "did",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Under no circumstances ___ you tell him.",
+   "options": [
+    "should",
+    "do",
+    "are",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "On no account ___ you touch that.",
+   "options": [
+    "must",
+    "do",
+    "are",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Not until later ___ I understand.",
+   "options": [
+    "do",
+    "did",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  }
+ ],
+ "C1": [
+  {
+   "q": "The committee ___ divided opinions.",
+   "options": [
+    "have",
+    "has",
+    "are",
+    "is"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The jury ___ still deliberating.",
+   "options": [
+    "are",
+    "is",
+    "have",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The government ___ announced new measures.",
+   "options": [
+    "have",
+    "has",
+    "are",
+    "were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The staff ___ unhappy about the changes.",
+   "options": [
+    "is",
+    "are",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The audience ___ clapping enthusiastically.",
+   "options": [
+    "were",
+    "was",
+    "are",
+    "have"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The public ___ a right to know.",
+   "options": [
+    "have",
+    "has",
+    "are",
+    "were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The media ___ biased.",
+   "options": [
+    "is",
+    "are",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The police ___ arrested the suspect.",
+   "options": [
+    "has",
+    "have",
+    "is",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The cattle ___ grazing in the field.",
+   "options": [
+    "is",
+    "are",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The vermin ___ a problem.",
+   "options": [
+    "is",
+    "are",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is imperative that he ___ present.",
+   "options": [
+    "is",
+    "be",
+    "was",
+    "will be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I suggest that she ___ the job.",
+   "options": [
+    "takes",
+    "take",
+    "took",
+    "will take"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The doctor recommended that he ___.",
+   "options": [
+    "rests",
+    "rest",
+    "rested",
+    "will rest"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is essential that everyone ___ the rules.",
+   "options": [
+    "follows",
+    "follow",
+    "followed",
+    "will follow"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I demand that you ___ immediately.",
+   "options": [
+    "leaves",
+    "leave",
+    "left",
+    "will leave"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The judge ordered that the prisoner ___ released.",
+   "options": [
+    "is",
+    "be",
+    "was",
+    "will be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If he ___ more careful, he wouldn't have crashed.",
+   "options": [
+    "was",
+    "had been",
+    "were",
+    "has been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Had she ___, she would have told us.",
+   "options": [
+    "know",
+    "known",
+    "knew",
+    "knows"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Were they ___ early, we would have prepared.",
+   "options": [
+    "arrive",
+    "to arrive",
+    "arriving",
+    "arrived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Should you ___ anything, let me know.",
+   "options": [
+    "need",
+    "needed",
+    "needs",
+    "needing"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "But for his bravery, the child ___.",
+   "options": [
+    "would die",
+    "would have died",
+    "died",
+    "had died"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Without your help, I ___ the project.",
+   "options": [
+    "wouldn't finish",
+    "wouldn't have finished",
+    "didn't finish",
+    "hadn't finished"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I'd rather you ___ it.",
+   "options": [
+    "don't do",
+    "didn't do",
+    "won't do",
+    "haven't done"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It's high time you ___ taking responsibility.",
+   "options": [
+    "start",
+    "started",
+    "have started",
+    "will start"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He behaves as if he ___ the boss.",
+   "options": [
+    "is",
+    "was",
+    "were",
+    "be"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "She talks as though she ___ the company.",
+   "options": [
+    "owns",
+    "owned",
+    "has owned",
+    "will own"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ early.",
+   "options": [
+    "arrived",
+    "had arrived",
+    "arrive",
+    "have arrived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If only I ___ more time.",
+   "options": [
+    "have",
+    "had",
+    "have had",
+    "will have"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He would rather ___ than go out.",
+   "options": [
+    "stay",
+    "to stay",
+    "staying",
+    "stayed"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "I would sooner ___ than betray my friends.",
+   "options": [
+    "die",
+    "to die",
+    "dying",
+    "died"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "No sooner ___ than the meeting started.",
+   "options": [
+    "he arrived",
+    "had he arrived",
+    "did he arrive",
+    "he had arrived"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Hardly ___ speaking when the lights went out.",
+   "options": [
+    "she had begun",
+    "had she begun",
+    "did she begin",
+    "she began"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not only ___ late, but he also forgot the documents.",
+   "options": [
+    "he was",
+    "was he",
+    "he is",
+    "is he"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Little ___ the danger.",
+   "options": [
+    "he realized",
+    "did he realize",
+    "he did realize",
+    "realized he"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Never ___ such a beautiful sunset.",
+   "options": [
+    "I have seen",
+    "have I seen",
+    "I saw",
+    "did I see"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Rarely ___ the opportunity to travel.",
+   "options": [
+    "we have",
+    "do we have",
+    "we do have",
+    "have we"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Only after the meeting ___ the decision.",
+   "options": [
+    "they made",
+    "did they make",
+    "they did make",
+    "made they"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Under no circumstances ___ resign.",
+   "options": [
+    "I will",
+    "will I",
+    "I do",
+    "do I"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "On no account ___ be disturbed.",
+   "options": [
+    "he is to",
+    "is he to",
+    "he is",
+    "is he"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not until midnight ___ his work.",
+   "options": [
+    "he finished",
+    "did he finish",
+    "he did finish",
+    "finished he"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The project, ___ was completed last month, was a success.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The man, ___ I met yesterday, is a famous author.",
+   "options": [
+    "who",
+    "whom",
+    "which",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The city, ___ I was born, has changed.",
+   "options": [
+    "which",
+    "where",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The reason, ___ he left, remains a mystery.",
+   "options": [
+    "which",
+    "why",
+    "that",
+    "when"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The book, ___ is torn, is mine.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is the only one ___ knows the truth.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "where"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is the best film ___ I have ever seen.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "All ___ glitters is not gold.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "Everything ___ he said was a lie.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "The thing ___ surprised me was his reaction.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 2
+  },
+  {
+   "q": "Having ___ his work, he went home.",
+   "options": [
+    "finish",
+    "finished",
+    "finishing",
+    "finishes"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ what to do, she called her mother.",
+   "options": [
+    "Not know",
+    "Not knowing",
+    "Not known",
+    "Don't know"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ a doctor, he knew what to do.",
+   "options": [
+    "Be",
+    "Being",
+    "Been",
+    "To be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ down the street, I met an old friend.",
+   "options": [
+    "Walk",
+    "Walking",
+    "Walked",
+    "To walk"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ by the journey, they went straight to bed.",
+   "options": [
+    "Exhausting",
+    "Exhausted",
+    "Exhaust",
+    "To exhaust"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The house ___ in 1900 is now a museum.",
+   "options": [
+    "build",
+    "built",
+    "building",
+    "to build"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The letter ___ by hand was difficult to read.",
+   "options": [
+    "write",
+    "written",
+    "writing",
+    "wrote"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The man ___ over there is my uncle.",
+   "options": [
+    "stand",
+    "standing",
+    "stood",
+    "to stand"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The girl ___ on stage is my cousin.",
+   "options": [
+    "sing",
+    "singing",
+    "sang",
+    "to sing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The car ___ outside is mine.",
+   "options": [
+    "park",
+    "parked",
+    "parking",
+    "to park"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is said ___ the country.",
+   "options": [
+    "leave",
+    "to have left",
+    "leaving",
+    "left"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is believed ___ somewhere.",
+   "options": [
+    "hide",
+    "to be hiding",
+    "hiding",
+    "hid"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The company is reported ___ in trouble.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is thought ___ the money.",
+   "options": [
+    "steal",
+    "to have stolen",
+    "stealing",
+    "stole"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The event is expected ___ place next week.",
+   "options": [
+    "take",
+    "to take",
+    "taking",
+    "took"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I had my doubts ___ the plan.",
+   "options": [
+    "on",
+    "about",
+    "for",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There is no alternative ___ waiting.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has a talent ___ music.",
+   "options": [
+    "in",
+    "for",
+    "at",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has a passion ___ art.",
+   "options": [
+    "in",
+    "for",
+    "at",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They have a reputation ___ being late.",
+   "options": [
+    "of",
+    "for",
+    "in",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have no intention ___ changing my mind.",
+   "options": [
+    "to",
+    "of",
+    "for",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There is a possibility ___ rain.",
+   "options": [
+    "for",
+    "of",
+    "to",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The probability ___ success is low.",
+   "options": [
+    "for",
+    "of",
+    "to",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has an advantage ___ his rivals.",
+   "options": [
+    "on",
+    "over",
+    "than",
+    "to"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has a preference ___ tea.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have a tendency ___ forget names.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has an aptitude ___ languages.",
+   "options": [
+    "in",
+    "for",
+    "at",
+    "on"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has an aversion ___ crowds.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They have a commitment ___ quality.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have a responsibility ___ my family.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The book is ___ reading.",
+   "options": [
+    "worthy",
+    "worth",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The film is ___ of an award.",
+   "options": [
+    "worth",
+    "worthy",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ of our respect.",
+   "options": [
+    "worth",
+    "worthy",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is ___ trying.",
+   "options": [
+    "worthy",
+    "worth",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ to working late.",
+   "options": [
+    "used",
+    "accustomed",
+    "use",
+    "using"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He ___ to smoke, but he quit.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I ___ to live in London.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The custom is ___ in many countries.",
+   "options": [
+    "common",
+    "usual",
+    "ordinary",
+    "normal"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "This tool is ___ for cutting.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ a great writer.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ her kindness.",
+   "options": [
+    "known as",
+    "known for",
+    "known to",
+    "known by"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The city is ___ the City of Lights.",
+   "options": [
+    "known for",
+    "known as",
+    "known to",
+    "known by"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ an expert.",
+   "options": [
+    "regarded as",
+    "regarded for",
+    "regarded to",
+    "regarded by"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "She is ___ a genius.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The plan is ___ risky.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The results are ___ improve.",
+   "options": [
+    "likely",
+    "likely to",
+    "probably",
+    "possible"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ be very rich.",
+   "options": [
+    "said",
+    "said to",
+    "say",
+    "saying"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ have left.",
+   "options": [
+    "believed",
+    "believed to",
+    "believe",
+    "believing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The document is ___ have been signed.",
+   "options": [
+    "thought",
+    "thought to",
+    "think",
+    "thinking"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The project is ___ cost millions.",
+   "options": [
+    "expected",
+    "expected to",
+    "expect",
+    "expecting"
+   ],
+   "answer_index": 1
+  }
+ ],
+ "C2": [
+  {
+   "q": "___ it not for his help, I would have failed.",
+   "options": [
+    "Was",
+    "Were",
+    "Had",
+    "Should"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ I known, I would have acted differently.",
+   "options": [
+    "Have",
+    "Had",
+    "Did",
+    "Were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ you require assistance, please call.",
+   "options": [
+    "Would",
+    "Should",
+    "Could",
+    "Might"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ I to accept, what would you do?",
+   "options": [
+    "Was",
+    "Were",
+    "Had",
+    "Should"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ she not intervened, disaster would have ensued.",
+   "options": [
+    "Have",
+    "Had",
+    "Did",
+    "Were"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I would rather you ___ told him.",
+   "options": [
+    "have",
+    "had",
+    "did",
+    "would"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is high time that such practices ___ abolished.",
+   "options": [
+    "are",
+    "were",
+    "have been",
+    "will be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He behaves as if he ___ never seen a woman before.",
+   "options": [
+    "has",
+    "had",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She speaks as though she ___ present at the time.",
+   "options": [
+    "was",
+    "had been",
+    "were",
+    "has been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I wish I ___ to leave so early.",
+   "options": [
+    "didn't have",
+    "hadn't had",
+    "don't have",
+    "haven't had"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "If only he ___ so stubborn.",
+   "options": [
+    "isn't",
+    "weren't",
+    "hadn't",
+    "hasn't"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "But for the timely intervention, the situation ___.",
+   "options": [
+    "would worsen",
+    "would have worsened",
+    "worsened",
+    "had worsened"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Without his support, I ___ where I am today.",
+   "options": [
+    "wouldn't be",
+    "wouldn't have been",
+    "weren't",
+    "hadn't been"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "No sooner ___ arrived than he was asked to leave.",
+   "options": [
+    "he had",
+    "had he",
+    "did he",
+    "he did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Hardly ___ begun her speech when the microphone failed.",
+   "options": [
+    "she had",
+    "had she",
+    "did she",
+    "she did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not only ___ lied, but he also denied it.",
+   "options": [
+    "he had",
+    "had he",
+    "did he",
+    "he did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Little ___ the consequences of their actions.",
+   "options": [
+    "they realized",
+    "did they realize",
+    "they did realize",
+    "realized they"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Never before ___ witnessed such a spectacle.",
+   "options": [
+    "I have",
+    "have I",
+    "did I",
+    "I did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Rarely ___ such dedication.",
+   "options": [
+    "I have seen",
+    "have I seen",
+    "did I see",
+    "I saw"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Only when it was too late ___ their mistake.",
+   "options": [
+    "they realized",
+    "did they realize",
+    "they did realize",
+    "realized they"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Under no circumstances ___ left unlocked.",
+   "options": [
+    "the door should be",
+    "should the door be",
+    "the door should",
+    "should be the door"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "On no account ___ reveal this information.",
+   "options": [
+    "you must",
+    "must you",
+    "you do",
+    "do you"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not until the following day ___ consciousness.",
+   "options": [
+    "he regained",
+    "did he regain",
+    "he did regain",
+    "regained he"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Scarcely ___ finished speaking when the audience applauded.",
+   "options": [
+    "she had",
+    "had she",
+    "did she",
+    "she did"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "In no way ___ acceptable.",
+   "options": [
+    "this is",
+    "is this",
+    "this does",
+    "does this"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The proposal, ___ was rejected, had merit.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The committee, ___ met yesterday, reached a decision.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The scientist, ___ we all admire, won the prize.",
+   "options": [
+    "who",
+    "whom",
+    "which",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The theory, ___ he proposed, was revolutionary.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The village, ___ I grew up, is now a tourist attraction.",
+   "options": [
+    "which",
+    "where",
+    "that",
+    "whose"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The reason, ___ he resigned, was never disclosed.",
+   "options": [
+    "which",
+    "why",
+    "that",
+    "when"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The extent ___ he was involved remains unclear.",
+   "options": [
+    "in which",
+    "to which",
+    "of which",
+    "for which"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The manner ___ she spoke was unsettling.",
+   "options": [
+    "in which",
+    "to which",
+    "of which",
+    "for which"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "The degree ___ they suffered was immense.",
+   "options": [
+    "in which",
+    "to which",
+    "of which",
+    "for which"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The point ___ he stopped was crucial.",
+   "options": [
+    "in which",
+    "at which",
+    "of which",
+    "for which"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ been warned, he proceeded anyway.",
+   "options": [
+    "Have",
+    "Having",
+    "Had",
+    "To have"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ any money, he decided to walk.",
+   "options": [
+    "Not have",
+    "Not having",
+    "No having",
+    "Haven't"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ a seasoned traveler, she knew what to expect.",
+   "options": [
+    "Be",
+    "Being",
+    "Been",
+    "To be"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ all the evidence, the jury acquitted him.",
+   "options": [
+    "Although",
+    "Despite",
+    "Because",
+    "However"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "___ by his expression, he was not pleased.",
+   "options": [
+    "Judge",
+    "Judging",
+    "Judged",
+    "To judge"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The document ___ by the president is now law.",
+   "options": [
+    "sign",
+    "signed",
+    "signing",
+    "to sign"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The bridge ___ in 1890 still stands.",
+   "options": [
+    "build",
+    "built",
+    "building",
+    "to build"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The man ___ of theft was released.",
+   "options": [
+    "accuse",
+    "accused",
+    "accusing",
+    "to accuse"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The woman ___ on TV is my aunt.",
+   "options": [
+    "appear",
+    "appearing",
+    "appeared",
+    "to appear"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The child ___ by the noise began to cry.",
+   "options": [
+    "frighten",
+    "frightened",
+    "frightening",
+    "to frighten"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is reputed ___ a formidable opponent.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is alleged ___ committed fraud.",
+   "options": [
+    "have",
+    "to have",
+    "having",
+    "had"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The company is rumored ___ on the verge of bankruptcy.",
+   "options": [
+    "be",
+    "to be",
+    "being",
+    "been"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is purported ___ made a fortune.",
+   "options": [
+    "have",
+    "to have",
+    "having",
+    "had"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The manuscript is believed ___ been written in the 15th century.",
+   "options": [
+    "have",
+    "to have",
+    "having",
+    "had"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "I have no doubt ___ he will succeed.",
+   "options": [
+    "if",
+    "that",
+    "whether",
+    "what"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "There is little likelihood ___ a resolution.",
+   "options": [
+    "for",
+    "of",
+    "to",
+    "in"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has a propensity ___ exaggerate.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has a penchant ___ drama.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They have a proclivity ___ risk-taking.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has an affinity ___ animals.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has an aversion ___ conflict.",
+   "options": [
+    "for",
+    "to",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "They have a disregard ___ rules.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He has a contempt ___ authority.",
+   "options": [
+    "to",
+    "for",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She has a fascination ___ ancient history.",
+   "options": [
+    "for",
+    "with",
+    "of",
+    "at"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The book is ___ of critical acclaim.",
+   "options": [
+    "worth",
+    "worthy",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The achievement is ___ of celebration.",
+   "options": [
+    "worth",
+    "worthy",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ of our admiration.",
+   "options": [
+    "worth",
+    "worthy",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "It is ___ noting that he apologized.",
+   "options": [
+    "worthy",
+    "worth",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The film is ___ seeing.",
+   "options": [
+    "worthy",
+    "worth",
+    "worthwhile",
+    "worthless"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ to being the center of attention.",
+   "options": [
+    "used",
+    "accustomed",
+    "use",
+    "using"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She ___ to live in Paris.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "This expression is no longer ___.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The word is ___ in a derogatory sense.",
+   "options": [
+    "use",
+    "used",
+    "using",
+    "uses"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ a brilliant economist.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ her philanthropy.",
+   "options": [
+    "known as",
+    "known for",
+    "known to",
+    "known by"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The city is ___ the birthplace of democracy.",
+   "options": [
+    "known for",
+    "known as",
+    "known to",
+    "known by"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ the father of modern physics.",
+   "options": [
+    "known for",
+    "known as",
+    "known to",
+    "known by"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ one of the best.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The plan is ___ flawed.",
+   "options": [
+    "consider",
+    "considered",
+    "considering",
+    "considers"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The results are ___ be announced soon.",
+   "options": [
+    "expected",
+    "expected to",
+    "expect",
+    "expecting"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "He is ___ have resigned.",
+   "options": [
+    "believed",
+    "believed to",
+    "believe",
+    "believing"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "She is ___ have fled.",
+   "options": [
+    "thought",
+    "thought to",
+    "think",
+    "thinking"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The document is ___ have been leaked.",
+   "options": [
+    "alleged",
+    "alleged to",
+    "allege",
+    "alleging"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The project is ___ have cost billions.",
+   "options": [
+    "estimated",
+    "estimated to",
+    "estimate",
+    "estimating"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The more you practice, ___ you become.",
+   "options": [
+    "better",
+    "the better",
+    "the best",
+    "best"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The less you worry, ___ you are.",
+   "options": [
+    "happier",
+    "the happier",
+    "happiest",
+    "happy"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "The harder you try, ___ likely you are to give up.",
+   "options": [
+    "less",
+    "the less",
+    "least",
+    "lesser"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "No sooner had he spoken ___ the crowd erupted.",
+   "options": [
+    "when",
+    "than",
+    "then",
+    "that"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Hardly had she left ___ it started to rain.",
+   "options": [
+    "than",
+    "when",
+    "then",
+    "that"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Scarcely had they arrived ___ the storm broke.",
+   "options": [
+    "than",
+    "when",
+    "then",
+    "that"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not until later ___ I realize the truth.",
+   "options": [
+    "do",
+    "did",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Only after the meeting ___ I understand.",
+   "options": [
+    "do",
+    "did",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Under no circumstances ___ you give up.",
+   "options": [
+    "should",
+    "do",
+    "are",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "On no account ___ you be late.",
+   "options": [
+    "must",
+    "do",
+    "are",
+    "have"
+   ],
+   "answer_index": 0
+  },
+  {
+   "q": "Little ___ he know that he was being watched.",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Never ___ I seen such a sight.",
+   "options": [
+    "did",
+    "have",
+    "had",
+    "do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Rarely ___ she complain.",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Seldom ___ we encountered such resistance.",
+   "options": [
+    "did",
+    "have",
+    "had",
+    "do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "In no way ___ this justify his behavior.",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "At no time ___ he mention the incident.",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Nowhere ___ I seen such beauty.",
+   "options": [
+    "did",
+    "have",
+    "had",
+    "do"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Not only ___ he apologize, but he also offered compensation.",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "has"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "No sooner ___ he left than the phone rang.",
+   "options": [
+    "did",
+    "had",
+    "has",
+    "was"
+   ],
+   "answer_index": 1
+  },
+  {
+   "q": "Hardly ___ I closed the door when the bell rang.",
+   "options": [
+    "did",
+    "had",
+    "have",
+    "was"
+   ],
+   "answer_index": 1
+  }
+ ]
+}
